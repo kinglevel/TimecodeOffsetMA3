@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="2.5.1.0">
+    <UserPlugin Name="TimecodeOffsetMA3" Appearance="Red" Author="LEDvard" Version="0.0.0.4" Path="/TimecodeOffsetMA3" UserRights="View">
+        <DependencyExport Size="1">
+            <Dependency RelAddr="ShowData.Appearances.Red" RelAddrNum="14.4.4" Address="ShowData.Appearances.Red" AddressNum="14.4.4">
+                <Appearance Name="Red" Guid="01 74 C4 91 51 A6 20 0A D2 65 0D 89 38 8B 13 6E" Color="1.0000000000,0.0000000000,0.0000000000,0.0000000000" BackR="81" BackAlpha="255"/>
+            </Dependency>
+        </DependencyExport>
+        <ComponentLua Name="TimecodeOffsetMA3" FileName="TimecodeOffsetMA3.lua" UserRights="View"/>
+    </UserPlugin>
+</GMA3>
